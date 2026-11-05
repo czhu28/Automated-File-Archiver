@@ -1,0 +1,16 @@
+2026-11-05 11:39:15 | INFO | SCAN | FOUND | project-sandbox/server/CompanyA/files | scanning folder
+2026-11-05 11:39:15 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyA/inbound | folder does not exist
+2026-11-05 11:39:15 | INFO | SCAN | FOUND | project-sandbox/server/CompanyB/files | scanning folder
+2026-11-05 11:39:15 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyB/inbound | folder does not exist
+2026-11-05 11:39:15 | INFO | SCAN | FOUND | project-sandbox/server/CompanyC/files | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyC/inbound | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyD/files | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyD/inbound | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyE/files | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyE/inbound | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyE2/files | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyE2/inbound | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyF/files | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyF/inbound | folder does not exist
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyG/files | scanning folder
+2026-11-05 11:39:16 | INFO | SCAN | FOUND | project-sandbox/server/CompanyG/inbound | scanning folder
