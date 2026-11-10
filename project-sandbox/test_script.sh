@@ -14,9 +14,12 @@ for company in "$base"/*/; do
 
     # ---------- archive/ exists? ----------
     archive="$base/$name/archive"
-    if [ ! -d "$archive" ]; then
-        echo "Would create: $archive"
-    fi
+   if [ ! -d "$archive" ]; then
+       mkdir "$archive"
+       log "INFO" "START" "CREATED" "$archive" "archive folder created"
+   else
+       log "INFO" "START" "FOUND" "$archive" "archive folder exists, reusing it"
+   fi
 
     # ---------- For each source folder ----------
     for folder in files inbound; do
