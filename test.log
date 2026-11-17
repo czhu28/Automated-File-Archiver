@@ -1,0 +1,24 @@
+2026-11-17 15:06:13 | INFO | START | CREATED | project-sandbox/server/CompanyA/archive | archive folder created
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyA/files | folder does not exist
+2026-11-17 15:06:13 | INFO | SCAN | FOUND | project-sandbox/server/CompanyA/inbound | scanning folder
+2026-11-17 15:06:13 | INFO | START | CREATED | project-sandbox/server/CompanyB/archive | archive folder created
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyB/files | folder does not exist
+2026-11-17 15:06:13 | INFO | SCAN | FOUND | project-sandbox/server/CompanyB/inbound | scanning folder
+2026-11-17 15:06:13 | INFO | START | CREATED | project-sandbox/server/CompanyC/archive | archive folder created
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyC/files | folder does not exist
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyC/inbound | folder does not exist
+2026-11-17 15:06:13 | INFO | START | CREATED | project-sandbox/server/CompanyD/archive | archive folder created
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyD/files | folder does not exist
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyD/inbound | folder does not exist
+2026-11-17 15:06:13 | INFO | START | CREATED | project-sandbox/server/CompanyE/archive | archive folder created
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyE/files | folder does not exist
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyE/inbound | folder does not exist
+2026-11-17 15:06:13 | INFO | START | CREATED | project-sandbox/server/CompanyE2/archive | archive folder created
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyE2/files | folder does not exist
+2026-11-17 15:06:13 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyE2/inbound | folder does not exist
+2026-11-17 15:06:14 | INFO | START | CREATED | project-sandbox/server/CompanyF/archive | archive folder created
+2026-11-17 15:06:14 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyF/files | folder does not exist
+2026-11-17 15:06:14 | INFO | SCAN | FOUND | project-sandbox/server/CompanyF/inbound | scanning folder
+2026-11-17 15:06:14 | INFO | START | CREATED | project-sandbox/server/CompanyG/archive | archive folder created
+2026-11-17 15:06:14 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyG/files | folder does not exist
+2026-11-17 15:06:14 | INFO | SCAN | SKIPPED | project-sandbox/server/CompanyG/inbound | folder does not exist
